@@ -1,13 +1,14 @@
 # cybersecurity-journal 
 
-Moja droga nauki cyberbezpieczeństwa
+My Cybersecurity Learning Journey
 
-## Cele
-- Poznać podstawy cyberbezpieczeństwa
-- Nauczyć się sieci komputerowych i Linuxa
-- Poznać podstawy Pythona i automatyzacji
-- Sprawdzić różne specjalizacje cyberbezpieczeństwa
-- Zbudować portfolio projektów
+## Goals
+
+- Learn the fundamentals of cybersecurity
+- Learn computer networking and Linux
+- Learn the basics of Python and automation
+- Explore different cybersecurity specializations
+- Build a portfolio of projects
 
 ## Postępy
 Day 1 — Cisco Introduction to Cybersecurity
